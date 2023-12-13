@@ -1,4 +1,4 @@
-This repository contains the source code (with datasets included) for the research paper titled "Graph Embedding Augmented Skill Rating System," published in IEEE Transactions on Games. The paper can be accessed on [arXiv](https://arxiv.org/abs/2304.08257).
+This repository contains the source code (with datasets included) for the research paper titled "Graph Embedding Augmented Skill Rating System," published in IEEE Transactions on Games (DOI: 10.1109/TG.2022.3221849). The paper can be accessed on [arXiv](https://arxiv.org/abs/2304.08257).
 This method/framework aims to improve skill rating accuracy in games.
 
 ## Usage
@@ -37,7 +37,7 @@ This method/framework aims to improve skill rating accuracy in games.
 
 - ".py" files are scripts for processing raw data from "/raw_data/*.csv." 
 
-## Implementation Details
+## Dependencies
 
 The program was implemented using Julia (primarily) and Python, as stated in the paper. 
 
